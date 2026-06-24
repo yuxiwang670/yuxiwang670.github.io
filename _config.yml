@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Yuxi Wang (王愉茜)"
+description              : "Ph.D. candidate in Applied Psychology at Peking University."
+repository               : "yuxiwang670/yuxiwang670.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,29 +21,30 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Yuxi Wang (王愉茜)"
+  avatar           : "images/yuxi-wang-profile.jpg"
+  bio              : "Ph.D. candidate, Applied Psychology, Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=8F7li3AAAAAJ&hl=zh-CN"
+  cv               : "assets/pdfs/YuxiWang_CV.pdf"
+  email            : "yuxi.wang@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://yuxiwang670.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "yuxiwang670"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "yuxi-wang-6747232a4"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "yuxiwang15"
   vine             :
   weibo            :
   xing             :
