@@ -1,7 +1,7 @@
 {% assign publications = site.publications | sort: "order" %}
 {% for publication in publications %}
 {% if publication.featured %}
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">{{ publication.badge }}</div><img src='{{ publication.image }}' alt="paper thumbnail" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">{{ publication.badge }}</div><img src='{% if publication.image contains "://" %}{{ publication.image }}{% else %}{{ publication.image | relative_url }}{% endif %}' alt="paper thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [{{ publication.title }}]({{ publication.link }})
@@ -11,7 +11,7 @@
 {{ publication.venue }}
 {{ publication.content | markdownify }}
 <div class="paper-links">
-  <a class="paper-link" href="{{ publication.pdf }}">PDF</a>
+  <a class="paper-link" href="{% if publication.pdf contains '://' %}{{ publication.pdf }}{% else %}{{ publication.pdf | relative_url }}{% endif %}">PDF</a>
   <a class="paper-link" href="{{ publication.cite }}">Cite</a>
   <a class="paper-link" href="{{ publication.doi }}">DOI</a>
 </div>
@@ -24,7 +24,7 @@
 
 {{ publication.content | markdownify }}
 <div class="paper-links">
-  <a class="paper-link" href="{{ publication.pdf }}">PDF</a>
+  <a class="paper-link" href="{% if publication.pdf contains '://' %}{{ publication.pdf }}{% else %}{{ publication.pdf | relative_url }}{% endif %}">PDF</a>
   <a class="paper-link" href="{{ publication.cite }}">Cite</a>
   <a class="paper-link" href="{{ publication.doi }}">DOI</a>
 </div>
