@@ -25,6 +25,12 @@ To address this problem, I aim to integrate computational cognition, Bayesian le
 
 For the most up-to-date publication list and citation metrics, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=8F7li3AAAAAJ&hl=zh-CN). Google Scholar lists **15 citations**, **h-index 2**, and **i10-index 0** as of 2026-06-24.
 
+# Research Overview
+
+<figure class="research-overview">
+  <img src="images/research-overview.svg" alt="Research overview diagram linking human cognition and neuroscience to active belief control in autonomous AI agents">
+</figure>
+
 # News
 - *2026.06*: Homepage profile updated from Google Scholar.
 - *2026*: New publications appeared in Nature Human Behaviour, Psychiatry Research: Neuroimaging, and IEEE VR related venues.

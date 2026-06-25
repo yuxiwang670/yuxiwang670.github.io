@@ -130,3 +130,16 @@ h1:before, .anchor:before {
     color: #fff !important;
     background-color: #0057c2;
 }
+
+.research-overview {
+    margin: 1.4em 0 2.2em;
+
+    img {
+        display: block;
+        width: 100%;
+        max-width: 1000px;
+        margin: 0 auto;
+        border-radius: 8px;
+        box-shadow: 0 12px 28px rgba(31, 41, 55, 0.12);
+    }
+}
