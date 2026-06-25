@@ -1,0 +1,4 @@
+{% assign educations = site.educations | sort: "order" %}
+{% for item in educations %}
+- *{{ item.date_label }}*, **{{ item.degree }}**, {{ item.institution }}, {{ item.location }}.
+{% endfor %}

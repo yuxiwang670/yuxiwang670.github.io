@@ -1,0 +1,4 @@
+{% assign internships = site.internships | sort: "order" %}
+{% for item in internships %}
+- *{{ item.date_label }}*, {{ item.title }}, {{ item.organization }}, {{ item.location }}.
+{% endfor %}

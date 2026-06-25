@@ -1,0 +1,4 @@
+{% assign talks = site.invited_talks | sort: "order" %}
+{% for item in talks %}
+- {{ item.title }}
+{% endfor %}

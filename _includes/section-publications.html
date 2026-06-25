@@ -1,0 +1,33 @@
+{% assign publications = site.publications | sort: "order" %}
+{% for publication in publications %}
+{% if publication.featured %}
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">{{ publication.badge }}</div><img src='{{ publication.image }}' alt="paper thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[{{ publication.title }}]({{ publication.link }})
+
+{{ publication.authors }}
+
+{{ publication.venue }}
+{{ publication.content | markdownify }}
+<div class="paper-links">
+  <a class="paper-link" href="{{ publication.pdf }}">PDF</a>
+  <a class="paper-link" href="{{ publication.cite }}">Cite</a>
+  <a class="paper-link" href="{{ publication.doi }}">DOI</a>
+</div>
+</div>
+</div>
+{% else %}
+<div class="publication-item" markdown="1">
+
+[{{ publication.title }}]({{ publication.link }}), {{ publication.authors }}, {{ publication.venue }}
+
+{{ publication.content | markdownify }}
+<div class="paper-links">
+  <a class="paper-link" href="{{ publication.pdf }}">PDF</a>
+  <a class="paper-link" href="{{ publication.cite }}">Cite</a>
+  <a class="paper-link" href="{{ publication.doi }}">DOI</a>
+</div>
+</div>
+{% endif %}
+{% endfor %}

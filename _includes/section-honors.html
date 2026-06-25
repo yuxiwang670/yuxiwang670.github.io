@@ -1,0 +1,4 @@
+{% assign honors = site.honors | sort: "order" %}
+{% for item in honors %}
+- *{{ item.date_label }}*, {{ item.title }}, {{ item.organization }}.
+{% endfor %}

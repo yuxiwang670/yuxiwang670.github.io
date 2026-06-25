@@ -127,6 +127,64 @@ defaults:
     values:
       layout: default
       author_profile: true
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: default
+      author_profile: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: default
+      author_profile: true
+  - scope:
+      path: ""
+      type: honors
+    values:
+      layout: default
+      author_profile: true
+  - scope:
+      path: ""
+      type: educations
+    values:
+      layout: default
+      author_profile: true
+  - scope:
+      path: ""
+      type: invited_talks
+    values:
+      layout: default
+      author_profile: true
+  - scope:
+      path: ""
+      type: internships
+    values:
+      layout: default
+      author_profile: true
+
+
+# Collections
+collections:
+  news:
+    output: true
+    permalink: /news/:name/
+  publications:
+    output: true
+    permalink: /publications/:name/
+  honors:
+    output: true
+    permalink: /honors-awards/:name/
+  educations:
+    output: true
+    permalink: /educations/:name/
+  invited_talks:
+    output: true
+    permalink: /invited-talks/:name/
+  internships:
+    output: true
+    permalink: /internships/:name/
 
 
 # Sass/SCSS
