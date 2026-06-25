@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxi Wang (王愉茜)"
-description              : "Metacognition, autonomous learning, and active belief control in AI agents."
+description              : "Cognitive bias, metacognition, and belief regulation in human and artificial intelligence."
 repository               : "yuxiwang670/yuxiwang670.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxi Wang (王愉茜)"
   avatar           : "images/yuxi-wang-profile.jpg"
-  bio              : "Ph.D. candidate, Applied Psychology, Peking University"
+  bio              : "Ph.D., Applied Psychology, Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
