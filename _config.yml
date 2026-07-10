@@ -8,6 +8,11 @@
 # Site Settings
 title                    : "Yuxi Wang (王愉茜)"
 description              : "Belief formation, cognitive bias, and metacognitive regulation in human and artificial intelligence."
+research_interests:
+  - cognitive science
+  - neuroscience
+  - computational modeling
+  - artificial intelligence
 repository               : "yuxiwang670/yuxiwang670.github.io"
 google_scholar_stats_use_cdn : true
 

@@ -253,6 +253,17 @@
   }
 }
 
+.author__research-interests {
+  margin: 0 0 1em 1.25em;
+  padding: 0;
+  list-style-type: disc;
+
+  li {
+    margin-bottom: 0.25em;
+    white-space: normal;
+  }
+}
+
 .author__urls_sm{
   padding: .25em;
   font-size: 1.75em;
