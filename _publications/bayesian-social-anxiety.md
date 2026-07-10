@@ -6,5 +6,5 @@ link: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=
 pdf: "/assets/pdfs/bayesian-social-anxiety-2025.pdf"
 cite: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:Tyk-4Ss8FVUC"
 doi: "https://doi.org/10.3724/SP.J.1042.2025.1267"
-order: 7
+order: 12
 ---

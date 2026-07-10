@@ -9,7 +9,5 @@ pdf: "https://doi.org/10.1093/brain/awaf280"
 cite: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:9yKSN-GCB0IC"
 doi: "https://doi.org/10.1093/brain/awaf280"
 featured: false
-order: 1
+order: 2
 ---
-
-- Investigates associative learning abnormalities in treatment-resistant recurrent unipolar and bipolar depression.
