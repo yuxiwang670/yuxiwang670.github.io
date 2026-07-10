@@ -48,6 +48,8 @@ For the most up-to-date publication list and citation metrics, please visit my [
 {% include section-publications.html %}
 
 # Invited Talks
+*More updates coming soon.*
+
 {% comment %}
 {% include section-invited-talks.html %}
 {% endcomment %}
