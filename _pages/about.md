@@ -17,17 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Yuxi Wang (王愉茜)**, a **Ph.D. in Applied Psychology** from **Peking University**. My research focuses on **belief formation**, **cognitive bias**, and **metacognitive regulation** in human and artificial intelligence. The foundation of my work is computational cognitive science: I study how intelligent systems process uncertain information, form beliefs, monitor their own reliability, and update their judgments through evidence and feedback.
+👋 **I am Yuxi Wang (王愉茜), a researcher at BIGAI.**
 
-My previous work examined biased information processing in social anxiety, using behavioral experiments, Bayesian modeling, and cognitive neuroscience methods to understand how prior expectations and external evidence shape human judgments under uncertainty. Building on this foundation, my current research extends this perspective to **AI agents**. I am interested in how AI systems form beliefs, develop cognitive biases, monitor their own knowledge and limitations, and regulate their actions when information is incomplete or uncertain.
+🧠 **My research asks: How can we understand and develop cognitive capabilities that enable more general and adaptive artificial intelligence?**
 
-My research chain moves from **human cognitive bias** to **AI cognitive bias**, **AI metacognition**, **active belief control**, **human-AI trust**, and **cognitive safety**. Methodologically, I combine computational cognitive modeling, Bayesian learning, concept learning, active learning, reinforcement learning, and cognitively grounded benchmark design. My long-term goal is to develop evaluation frameworks and task environments that help us understand and improve the **metacognitive reliability**, **trustworthiness**, and **safety** of autonomous AI agents.
+Inspired by **cognitive science and neuroscience**, I study the principles underlying intelligence and explore how they can guide the development of AI systems with stronger abilities in **learning, adaptation, self-monitoring, and autonomous decision-making**.
 
-我是**王愉茜**，于**北京大学应用心理学专业**获得博士学位。我的研究关注人类与人工智能中的**信念形成**、**认知偏差**和**元认知调节**。我的研究基础是计算认知科学：我关注智能系统如何处理不确定信息、形成信念、监控自身可靠性，并通过证据和反馈更新判断。
+🔍 My current research focuses on **AI cognitive capabilities**, including **metacognition, uncertainty awareness, self-monitoring, and autonomous learning**. Through **computational cognitive modeling, Bayesian learning, and cognitively grounded benchmark design**, I investigate how AI agents can understand their own knowledge states, recognize limitations, learn from feedback, and improve in unfamiliar environments.
 
-我过去的研究主要考察社交焦虑中的偏差信息加工，结合行为实验、贝叶斯建模和认知神经科学方法，理解先验期待与外部证据如何共同塑造人在不确定情境下的判断。在此基础上，我目前的研究将这一视角拓展到**AI 智能体**，关注 AI 系统如何形成信念、发展认知偏差、监控自身知识与能力边界，并在信息不完整或不确定时调节自身行动。
+🌱 Ultimately, I aim to contribute to the cognitive foundations of **artificial general intelligence (AGI)** by developing AI systems that are not only capable of solving tasks, but also able to **understand, adapt, and regulate themselves**.
 
-我的研究链条从**人类认知偏差**延伸到 **AI 认知偏差**、**AI 元认知**、**主动信念控制**、**人机互信**和**认知安全**。在方法上，我结合计算认知建模、贝叶斯学习、概念学习、主动学习、强化学习和具有认知基础的 benchmark 设计。我的长期目标是构建评测框架和任务环境，帮助我们理解并提升自主 AI 智能体的**元认知可靠性**、**可信性**和**安全性**。
+👋 **我是王愉茜，目前是 BIGAI 的 researcher。**
+
+🧠 **我的研究关注：我们如何理解并发展能够支持更通用、更具适应性的人工智能的认知能力？**
+
+受**认知科学和神经科学**启发，我研究智能背后的基本原理，并探索这些原理如何指导 AI 系统的发展，使其具备更强的**学习、适应、自我监控和自主决策**能力。
+
+🔍 我目前的研究聚焦于 **AI 认知能力**，包括**元认知、不确定性感知、自我监控和自主学习**。我结合**计算认知建模、贝叶斯学习和具有认知基础的 benchmark 设计**，研究 AI 智能体如何理解自身知识状态、识别能力边界、从反馈中学习，并在陌生环境中持续改进。
+
+🌱 最终，我希望通过发展不仅能够完成任务、也能够**理解、适应并调节自身**的 AI 系统，为**通用人工智能（AGI）**的认知基础做出贡献。
 
 For the most up-to-date publication list and citation metrics, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=8F7li3AAAAAJ&hl=zh-CN). Google Scholar lists **15 citations**, **h-index 2**, and **i10-index 0** as of 2026-06-24.
 
