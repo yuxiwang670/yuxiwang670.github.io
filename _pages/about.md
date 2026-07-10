@@ -47,14 +47,22 @@ For the most up-to-date publication list and citation metrics, please visit my [
 
 {% include section-publications.html %}
 
+# Invited Talks
+{% comment %}
+{% include section-invited-talks.html %}
+{% endcomment %}
+
+{% comment %}
 # Honors and Awards
 {% include section-honors.html %}
+{% endcomment %}
 
+{% comment %}
 # Educations
 {% include section-educations.html %}
+{% endcomment %}
 
-# Invited Talks
-{% include section-invited-talks.html %}
-
+{% comment %}
 # Internships
 {% include section-internships.html %}
+{% endcomment %}
