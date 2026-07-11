@@ -1,4 +1,21 @@
 {% assign honors = site.honors | sort: "order" %}
-{% for item in honors %}
-- *{{ item.date_label }}*, {{ item.title }}, {{ item.organization }}.
-{% endfor %}
+<section class="honors-board">
+  <aside class="honors-board__summary">
+    <div class="honors-board__index">I.</div>
+    <h1 class="honors-board__title">Student Honors</h1>
+    <div class="honors-board__rule"></div>
+    <div class="honors-board__count">{{ honors | size }} items</div>
+  </aside>
+
+  <div class="honors-board__list">
+    {% for item in honors %}
+      <article class="honors-board__item">
+        <div class="honors-board__year">{{ item.date_label }}</div>
+        <div class="honors-board__detail">
+          <h2>{{ item.title }}</h2>
+          <p>{{ item.organization }}</p>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
