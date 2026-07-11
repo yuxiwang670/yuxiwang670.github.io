@@ -147,7 +147,7 @@ h1:before, .anchor:before {
 }
 
 .honors-board__index {
-    color: #9f1717;
+    color: #0057c2;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 5.5rem;
     font-style: italic;
@@ -212,5 +212,115 @@ h1:before, .anchor:before {
     .honors-board__item {
         grid-template-columns: 6rem minmax(0, 1fr);
         gap: 2rem;
+    }
+}
+
+.cv-timeline {
+    --cv-accent: #0057c2;
+    --cv-line: #d7deea;
+    margin-top: 1rem;
+}
+
+.cv-timeline h2 {
+    margin: 2rem 0 1rem;
+    padding-bottom: .35rem;
+    border-bottom: 1px solid #d7deea;
+    color: #111;
+    font-size: 1.25rem;
+}
+
+.cv-timeline h2:first-child {
+    margin-top: 0;
+}
+
+.cv-timeline__item {
+    display: grid;
+    grid-template-columns: 6.5rem 1.75rem minmax(0, 1fr);
+    gap: .75rem;
+    position: relative;
+    padding: 0 0 2rem;
+}
+
+.cv-timeline__item:before {
+    content: "";
+    position: absolute;
+    top: .25rem;
+    bottom: -.25rem;
+    left: calc(6.5rem + .875rem);
+    width: 2px;
+    background: var(--cv-line);
+}
+
+.cv-timeline__item:last-of-type:before {
+    bottom: 0;
+}
+
+.cv-timeline__date {
+    color: #6b7280;
+    font-family: Consolas, "Courier New", monospace;
+    font-size: .9rem;
+    font-weight: 700;
+    line-height: 1.45;
+    text-align: right;
+}
+
+.cv-timeline__marker {
+    position: relative;
+    z-index: 1;
+    width: .8rem;
+    height: .8rem;
+    margin: .25rem auto 0;
+    border: 2px solid var(--cv-line);
+    border-radius: 50%;
+    background: #fff;
+}
+
+.cv-timeline__item--current .cv-timeline__marker {
+    border-color: var(--cv-accent);
+    background: var(--cv-accent);
+    box-shadow: 0 0 0 .35rem rgba(0, 87, 194, .13);
+}
+
+.cv-timeline__content h3 {
+    margin: 0 0 .35rem;
+    color: #111;
+    font-size: 1.25rem;
+    line-height: 1.25;
+}
+
+.cv-timeline__content p {
+    margin: 0 0 .2rem;
+    color: #2c2c2c;
+    line-height: 1.45;
+}
+
+.cv-timeline__note {
+    color: #6b7280 !important;
+    font-style: italic;
+}
+
+@include breakpoint(max-width $small) {
+    .cv-timeline__item {
+        grid-template-columns: 1.5rem minmax(0, 1fr);
+        gap: .75rem;
+        padding-bottom: 1.75rem;
+    }
+
+    .cv-timeline__item:before {
+        left: .65rem;
+    }
+
+    .cv-timeline__date {
+        grid-column: 2;
+        text-align: left;
+    }
+
+    .cv-timeline__marker {
+        grid-row: 1 / span 2;
+        margin-top: .25rem;
+    }
+
+    .cv-timeline__content {
+        grid-column: 2;
     }
 }

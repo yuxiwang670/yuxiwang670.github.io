@@ -1,0 +1,59 @@
+<section class="cv-timeline" aria-label="CV timeline">
+  <h2>Working Experience</h2>
+
+  <article class="cv-timeline__item cv-timeline__item--current">
+    <div class="cv-timeline__date">2026 - present</div>
+    <div class="cv-timeline__marker" aria-hidden="true"></div>
+    <div class="cv-timeline__content">
+      <h3>Research Scientist</h3>
+      <p>Beijing Institute for General Artificial Intelligence (BIGAI)</p>
+      <p>National Key Laboratory of General Artificial Intelligence</p>
+      <p>Beijing, China</p>
+    </div>
+  </article>
+
+  <h2>Internship Experience</h2>
+
+  <article class="cv-timeline__item">
+    <div class="cv-timeline__date">2025 - 2026</div>
+    <div class="cv-timeline__marker" aria-hidden="true"></div>
+    <div class="cv-timeline__content">
+      <h3>Research Intern</h3>
+      <p>Beijing Institute for General Artificial Intelligence (BIGAI), Beijing, China</p>
+    </div>
+  </article>
+
+  <article class="cv-timeline__item">
+    <div class="cv-timeline__date">2021 - 2022</div>
+    <div class="cv-timeline__marker" aria-hidden="true"></div>
+    <div class="cv-timeline__content">
+      <h3>Research Assistant</h3>
+      <p>Peking University, Beijing, China</p>
+      <p class="cv-timeline__note">Supervisor: Yujia Peng, Ph.D.</p>
+    </div>
+  </article>
+
+  <article class="cv-timeline__item">
+    <div class="cv-timeline__date">2019 - 2021</div>
+    <div class="cv-timeline__marker" aria-hidden="true"></div>
+    <div class="cv-timeline__content">
+      <h3>Research Assistant</h3>
+      <p>Peking University, Beijing, China</p>
+      <p class="cv-timeline__note">Supervisor: Yinyin Zang, Ph.D.</p>
+    </div>
+  </article>
+
+  <h2>Education</h2>
+
+  {% assign educations = site.educations | sort: "order" %}
+  {% for item in educations %}
+    <article class="cv-timeline__item">
+      <div class="cv-timeline__date">{{ item.date_label }}</div>
+      <div class="cv-timeline__marker" aria-hidden="true"></div>
+      <div class="cv-timeline__content">
+        <h3>{{ item.degree }}</h3>
+        <p>{{ item.institution }}, {{ item.location }}</p>
+      </div>
+    </article>
+  {% endfor %}
+</section>
