@@ -1,9 +1,9 @@
 ---
-permalink: /cv/
-title: "CV"
+permalink: /educations/
+title: "Educations"
 author_profile: true
 ---
 
-# CV
+# Educations
 
-{% include section-cv.html %}
+This page has moved to [CV](/cv/).
