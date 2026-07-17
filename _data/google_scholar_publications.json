@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T09:57:14.296033+00:00",
+  "updated": "2026-07-17T09:52:09.503019+00:00",
   "source": "https://scholar.google.com/citations?user=8F7li3AAAAAJ&hl=zh-CN",
   "publications": [
     {
@@ -56,26 +56,26 @@
       "doi": "https://doi.org/10.1093/brain/awaf280"
     },
     {
-      "title": "Evaluating multimodal large language models with daily composite tasks in home environments",
-      "authors": "",
-      "venue": "",
-      "year": 2025,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:eQOLeE2rZwMC",
-      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:eQOLeE2rZwMC",
-      "source_index": 3,
-      "pdf": "/assets/pdfs/multimodal-llm-home-tasks-2025.pdf",
-      "doi": "https://arxiv.org/abs/2509.17425"
-    },
-    {
       "title": "TongSIM: A General Platform for Simulating Intelligent Machines",
       "authors": "",
       "venue": "",
       "year": 2025,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:WF5omc3nYNoC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:WF5omc3nYNoC",
-      "source_index": 5,
+      "source_index": 3,
       "pdf": "https://arxiv.org/abs/2512.20206",
       "doi": "https://arxiv.org/abs/2512.20206"
+    },
+    {
+      "title": "Evaluating multimodal large language models with daily composite tasks in home environments",
+      "authors": "",
+      "venue": "",
+      "year": 2025,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:eQOLeE2rZwMC",
+      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:eQOLeE2rZwMC",
+      "source_index": 4,
+      "pdf": "/assets/pdfs/multimodal-llm-home-tasks-2025.pdf",
+      "doi": "https://arxiv.org/abs/2509.17425"
     },
     {
       "title": "Revisiting Resting-State Functional Connectivity of the Amygdala and Subgenual Anterior Cingulate Cortex in Adolescents and Adults With Depression",
@@ -135,7 +135,7 @@
       "year": 2023,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:IjCSPb-OGe4C",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:IjCSPb-OGe4C",
-      "source_index": 4,
+      "source_index": 5,
       "pdf": "/assets/pdfs/biomotion-social-anxiety-2023.pdf",
       "doi": "https://doi.org/10.3724/SP.J.1042.2023.00905"
     }
