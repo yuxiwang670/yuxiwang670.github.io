@@ -3,11 +3,13 @@
 {% for publication in publications %}
 <div class="publication-item" markdown="1">
 
-[{{ publication.title }}]({{ publication.link }})
+**[{{ publication.title }}]({{ publication.link }})**
 
-{{ publication.authors }}
+**Authorship:** {{ publication.authors }}
 
-{{ publication.venue }}
+**Journal / venue:** {{ publication.venue }}
+
+**Publication date:** {% if publication.publication_date %}{{ publication.publication_date }}{% else %}{{ publication.year }}{% endif %}
 
 <div class="paper-links">
   {% if publication.pdf %}
@@ -27,11 +29,13 @@
 {% for publication in publications %}
 <div class="publication-item" markdown="1">
 
-[{{ publication.title }}]({{ publication.link }})
+**[{{ publication.title }}]({{ publication.link }})**
 
-{{ publication.authors }}
+**Authorship:** {{ publication.authors }}
 
-{{ publication.venue }}
+**Journal / venue:** {{ publication.venue }}
+
+**Publication date:** {% if publication.publication_date %}{{ publication.publication_date }}{% else %}{{ publication.year }}{% endif %}
 
 {{ publication.content | markdownify }}
 <div class="paper-links">

@@ -16,9 +16,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 **I am Yuxi Wang (王愉茜), a researcher at BIGAI.**
+👋 **I am Yuxi Wang (王愉茜), a research scientist at BIGAI.**
 
-**我是王愉茜，目前是 BIGAI 的 researcher。**
+**我是王愉茜，目前是 BIGAI 的 research scientist。**
 
 🧠 **My research asks: How can we understand and develop cognitive capabilities that enable more general and adaptive artificial intelligence?**
 
