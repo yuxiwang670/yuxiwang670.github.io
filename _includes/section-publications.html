@@ -5,11 +5,11 @@
 
 **[{{ publication.title }}]({{ publication.link }})**
 
-**Authorship:** {{ publication.authors }}
+**Authors:** {{ publication.authors }}
 
 **Journal / venue:** {{ publication.venue }}
 
-**Publication date:** {% if publication.publication_date %}{{ publication.publication_date }}{% else %}{{ publication.year }}{% endif %}
+**Published:** {% if publication.publication_date %}{{ publication.publication_date }}{% else %}{{ publication.year }}{% endif %}
 
 <div class="paper-links">
   {% if publication.pdf %}
@@ -31,11 +31,11 @@
 
 **[{{ publication.title }}]({{ publication.link }})**
 
-**Authorship:** {{ publication.authors }}
+**Authors:** {{ publication.authors }}
 
 **Journal / venue:** {{ publication.venue }}
 
-**Publication date:** {% if publication.publication_date %}{{ publication.publication_date }}{% else %}{{ publication.year }}{% endif %}
+**Published:** {% if publication.publication_date %}{{ publication.publication_date }}{% else %}{{ publication.year }}{% endif %}
 
 {{ publication.content | markdownify }}
 <div class="paper-links">
