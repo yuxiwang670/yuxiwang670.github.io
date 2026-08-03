@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T09:51:38.941380+00:00",
+  "updated": "2026-08-03T11:17:23.094628+00:00",
   "source": "https://scholar.google.com/citations?user=8F7li3AAAAAJ&hl=zh-CN",
   "publications": [
     {
@@ -7,9 +7,18 @@
       "authors": "",
       "venue": "",
       "year": 2026,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:3fE2CSJIrl8C",
-      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:3fE2CSJIrl8C",
-      "source_index": 8
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:kNdYIx-mwKoC",
+      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:kNdYIx-mwKoC",
+      "source_index": 9
+    },
+    {
+      "title": "BotDirector: Robot Storytelling Across the Symmetrical Reality with Multi-modal Interactions",
+      "authors": "",
+      "venue": "",
+      "year": 2026,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:5nxA0vEk-isC",
+      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:5nxA0vEk-isC",
+      "source_index": 10
     },
     {
       "title": "Social functioning in autism: a systematic review and meta-analysis",
@@ -18,20 +27,9 @@
       "year": 2026,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:Se3iqnhoufwC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:Se3iqnhoufwC",
-      "source_index": 9,
+      "source_index": 11,
       "pdf": "https://doi.org/10.1038/s41562-026-02457-w",
       "doi": "https://doi.org/10.1038/s41562-026-02457-w"
-    },
-    {
-      "title": "BotDirector: Robot Storytelling Across the Symmetrical Reality with Multi-Modal Interactions",
-      "authors": "",
-      "venue": "",
-      "year": 2026,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:5nxA0vEk-isC",
-      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:5nxA0vEk-isC",
-      "source_index": 10,
-      "pdf": "https://arxiv.org/abs/2606.03223",
-      "doi": "https://arxiv.org/abs/2606.03223"
     },
     {
       "title": "Distinct neural signatures of reward processing underlying bipolar disorder and major depressive disorder: a systematic review and meta-analysis",
@@ -40,7 +38,7 @@
       "year": 2026,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:roLk4NBRz8UC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:roLk4NBRz8UC",
-      "source_index": 11,
+      "source_index": 12,
       "pdf": "https://doi.org/10.1016/j.pscychresns.2026.112196",
       "doi": "https://doi.org/10.1016/j.pscychresns.2026.112196"
     },
@@ -51,7 +49,7 @@
       "year": 2026,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:0EnyYjriUFMC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:0EnyYjriUFMC",
-      "source_index": 12
+      "source_index": 13
     },
     {
       "title": "Treatment-resistant recurrent unipolar and bipolar depression: associative learning abnormalities",
@@ -87,24 +85,13 @@
       "doi": "https://arxiv.org/abs/2509.17425"
     },
     {
-      "title": "Revisiting Resting-State Functional Connectivity of the Amygdala and Subgenual Anterior Cingulate Cortex in Adolescents and Adults With Depression",
+      "title": "Revisiting resting-state functional connectivity of the amygdala and subgenual anterior cingulate cortex in adolescents and adults with depression",
       "authors": "",
       "venue": "",
       "year": 2025,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:UeHWp8X0CEIC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:UeHWp8X0CEIC",
-      "source_index": 7,
-      "pdf": "/assets/pdfs/resting-state-fc-depression-2025.pdf",
-      "doi": "https://doi.org/10.1016/j.bpsc.2024.11.004"
-    },
-    {
-      "title": "Transdiagnostic latent factors dissociating depression and anxiety through reinforcement learning",
-      "authors": "",
-      "venue": "",
-      "year": 2025,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:ufrVoPGSRksC",
-      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:ufrVoPGSRksC",
-      "source_index": 13
+      "source_index": 5
     },
     {
       "title": "Investigating social cognitive characteristics of social anxiety within the Bayesian framework",
@@ -113,6 +100,15 @@
       "year": 2025,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:8k81kl-MbHgC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:8k81kl-MbHgC",
+      "source_index": 8
+    },
+    {
+      "title": "Transdiagnostic latent factors dissociating depression and anxiety through reinforcement learning",
+      "authors": "",
+      "venue": "",
+      "year": 2025,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:ufrVoPGSRksC",
+      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:ufrVoPGSRksC",
       "source_index": 14
     },
     {
@@ -153,7 +149,7 @@
       "year": 2023,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:MXK_kJrjxJIC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:MXK_kJrjxJIC",
-      "source_index": 5
+      "source_index": 6
     },
     {
       "title": "基于生物运动的社交焦虑者情绪加工与社会意图理解负向偏差机制",
@@ -162,7 +158,7 @@
       "year": 2023,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:IjCSPb-OGe4C",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:IjCSPb-OGe4C",
-      "source_index": 6,
+      "source_index": 7,
       "pdf": "/assets/pdfs/biomotion-social-anxiety-2023.pdf",
       "doi": "https://doi.org/10.3724/SP.J.1042.2023.00905"
     }
