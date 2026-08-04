@@ -24,7 +24,15 @@ def existing_overrides():
     if not OUTPUT_PATH.exists():
         return {}
     data = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
-    return {item["title"]: item for item in data.get("publications", [])}
+    overrides = {}
+    for item in data.get("publications", []):
+        title = item.get("title", "").strip().casefold()
+        link = item.get("link", "").strip()
+        if title:
+            overrides[("title", title)] = item
+        if link:
+            overrides[("link", link)] = item
+    return overrides
 
 
 def citation_url(author_pub_id):
@@ -62,9 +70,16 @@ def normalize_publication(pub, source_index, overrides):
         "source_index": source_index,
     }
 
-    existing = overrides.get(title, {})
-    for key in ("pdf", "doi"):
+    existing = (
+        overrides.get(("link", link))
+        or overrides.get(("title", title.casefold()))
+        or {}
+    )
+    for key in ("pdf", "doi", "publication_date"):
         if existing.get(key):
+            item[key] = existing[key]
+    for key in ("authors", "venue"):
+        if not item[key] and existing.get(key):
             item[key] = existing[key]
     if existing.get("link") and not item["link"]:
         item["link"] = existing["link"]
