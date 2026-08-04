@@ -48,7 +48,7 @@ For the most up-to-date publication list and citation metrics, please visit my [
 
 # Publications
 
-{% include section-publications.html %}
+{% include section-publications.html source="collection" %}
 
 # Invited Talks
 *More updates coming soon.*

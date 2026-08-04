@@ -1,5 +1,11 @@
-{% if site.data.google_scholar_publications.publications %}
+{% if include.source == "collection" %}
+{% assign publications = site.publications | sort: "order" %}
+{% elsif site.data.google_scholar_publications.publications %}
 {% assign publications = site.data.google_scholar_publications.publications %}
+{% else %}
+{% assign publications = site.publications | sort: "order" %}
+{% endif %}
+
 {% for publication in publications %}
 <div class="publication-item" markdown="1">
 
@@ -9,8 +15,13 @@
 
 **Journal / venue:** {{ publication.venue }}
 
+{% if publication.publication_date or publication.year %}
 **Published:** {% if publication.publication_date %}{{ publication.publication_date }}{% else %}{{ publication.year }}{% endif %}
+{% endif %}
 
+{% if include.source == "collection" %}
+{{ publication.content | markdownify }}
+{% endif %}
 <div class="paper-links">
   {% if publication.pdf %}
   <a class="paper-link" href="{% if publication.pdf contains '://' %}{{ publication.pdf }}{% else %}{{ publication.pdf | relative_url }}{% endif %}">PDF</a>
@@ -24,25 +35,3 @@
 </div>
 </div>
 {% endfor %}
-{% else %}
-{% assign publications = site.publications | sort: "order" %}
-{% for publication in publications %}
-<div class="publication-item" markdown="1">
-
-**[{{ publication.title }}]({{ publication.link }})**
-
-**Authors:** {{ publication.authors }}
-
-**Journal / venue:** {{ publication.venue }}
-
-**Published:** {% if publication.publication_date %}{{ publication.publication_date }}{% else %}{{ publication.year }}{% endif %}
-
-{{ publication.content | markdownify }}
-<div class="paper-links">
-  <a class="paper-link" href="{% if publication.pdf contains '://' %}{{ publication.pdf }}{% else %}{{ publication.pdf | relative_url }}{% endif %}">PDF</a>
-  <a class="paper-link" href="{{ publication.cite }}">Cite</a>
-  <a class="paper-link" href="{{ publication.doi }}">DOI</a>
-</div>
-</div>
-{% endfor %}
-{% endif %}
