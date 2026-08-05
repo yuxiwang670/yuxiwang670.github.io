@@ -10,5 +10,5 @@ pdf: "/assets/pdfs/social-prism-model-2026.pdf"
 cite: "https://doi.org/10.1371/journal.pcbi.1014509"
 doi: "https://doi.org/10.1371/journal.pcbi.1014509"
 featured: false
-order: 1
+order: 2
 ---

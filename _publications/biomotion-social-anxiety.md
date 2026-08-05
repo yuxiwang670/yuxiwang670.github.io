@@ -7,5 +7,5 @@ link: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=
 pdf: "/assets/pdfs/biomotion-social-anxiety-2023.pdf"
 cite: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:IjCSPb-OGe4C"
 doi: "https://doi.org/10.3724/SP.J.1042.2023.00905"
-order: 14
+order: 15
 ---

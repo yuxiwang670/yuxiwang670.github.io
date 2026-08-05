@@ -7,5 +7,5 @@ link: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=
 pdf: "/assets/pdfs/resting-state-fc-depression-2025.pdf"
 cite: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:UeHWp8X0CEIC"
 doi: "https://doi.org/10.1016/j.bpsc.2024.11.004"
-order: 9
+order: 10
 ---
