@@ -7,17 +7,15 @@
 {% endif %}
 
 {% for publication in publications %}
-<div class="publication-item" markdown="1">
+<div class="publication-item">
+<div class="publication-item__year">{% if publication.year %}{{ publication.year }}{% else %}{{ publication.publication_date }}{% endif %}</div>
+<div class="publication-item__content" markdown="1">
 
 **[{{ publication.title }}]({{ publication.link }})**
 
 **Authors:** {{ publication.authors }}
 
 **Journal / venue:** {{ publication.venue }}
-
-{% if publication.publication_date or publication.year %}
-**Published:** {% if publication.publication_date %}{{ publication.publication_date }}{% else %}{{ publication.year }}{% endif %}
-{% endif %}
 
 {% if include.source == "collection" %}
 {{ publication.content | markdownify }}
@@ -32,6 +30,7 @@
   {% if publication.doi %}
   <a class="paper-link" href="{{ publication.doi }}">DOI</a>
   {% endif %}
+</div>
 </div>
 </div>
 {% endfor %}
