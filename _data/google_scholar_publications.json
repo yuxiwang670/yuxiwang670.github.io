@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-15T08:20:26.687821+00:00",
+  "updated": "2026-08-28T19:50:18.779289+00:00",
   "source": "https://scholar.google.com/citations?user=8F7li3AAAAAJ&hl=zh-CN",
   "publications": [
     {
       "title": "Bridging Cognitive Architecture and Developmental Measurement for Artificial General Intelligence",
       "authors": "Y Fu†, **Y Wang**†, H Xie, S Zhao, M Liu, Y Lu, X He, Z Cheng, Y Peng*, Z Zhang*",
       "venue": "**Journal of Intelligence** 14, 179, 2026",
-      "publication_date": "2026",
       "year": 2026,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:KlAtU1dfN6UC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:KlAtU1dfN6UC",
       "source_index": 9,
       "pdf": "/assets/pdfs/bridging-cognitive-architecture-gsa-2026.pdf",
-      "doi": "https://doi.org/10.3390/jintelligence14080179"
+      "doi": "https://doi.org/10.3390/jintelligence14080179",
+      "publication_date": "2026"
     },
     {
       "title": "Revealing dichotomous prior biases in social anxiety through a social prism model",
