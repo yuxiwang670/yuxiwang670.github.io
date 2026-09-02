@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-28T19:50:18.779289+00:00",
+  "updated": "2026-09-02T12:27:36.424785+00:00",
   "source": "https://scholar.google.com/citations?user=8F7li3AAAAAJ&hl=zh-CN",
   "publications": [
+    {
+      "title": "Distinct neural signatures of reward processing underlying bipolar disorder and major depressive disorder: a systematic review and meta-analysis",
+      "authors": "**Y Wang**, Y Peng, JD Steele, S Tolomeo",
+      "venue": "**Psychiatry Research: Neuroimaging**, 112196, 2026",
+      "year": 2026,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:roLk4NBRz8UC",
+      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:roLk4NBRz8UC",
+      "source_index": 8,
+      "pdf": "https://doi.org/10.1016/j.pscychresns.2026.112196",
+      "doi": "https://doi.org/10.1016/j.pscychresns.2026.112196",
+      "publication_date": "2026"
+    },
     {
       "title": "Bridging Cognitive Architecture and Developmental Measurement for Artificial General Intelligence",
       "authors": "Y Fu†, **Y Wang**†, H Xie, S Zhao, M Liu, Y Lu, X He, Z Cheng, Y Peng*, Z Zhang*",
@@ -9,7 +21,7 @@
       "year": 2026,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:KlAtU1dfN6UC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:KlAtU1dfN6UC",
-      "source_index": 9,
+      "source_index": 10,
       "pdf": "/assets/pdfs/bridging-cognitive-architecture-gsa-2026.pdf",
       "doi": "https://doi.org/10.3390/jintelligence14080179",
       "publication_date": "2026"
@@ -21,7 +33,7 @@
       "year": 2026,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:kNdYIx-mwKoC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:kNdYIx-mwKoC",
-      "source_index": 10,
+      "source_index": 11,
       "pdf": "/assets/pdfs/social-prism-model-2026.pdf",
       "doi": "https://doi.org/10.1371/journal.pcbi.1014509",
       "publication_date": "2026"
@@ -33,7 +45,7 @@
       "year": 2026,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:5nxA0vEk-isC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:5nxA0vEk-isC",
-      "source_index": 11,
+      "source_index": 12,
       "pdf": "https://arxiv.org/abs/2606.03223",
       "doi": "https://arxiv.org/abs/2606.03223",
       "publication_date": "2026"
@@ -45,21 +57,9 @@
       "year": 2026,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:Se3iqnhoufwC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:Se3iqnhoufwC",
-      "source_index": 12,
+      "source_index": 13,
       "pdf": "https://doi.org/10.1038/s41562-026-02457-w",
       "doi": "https://doi.org/10.1038/s41562-026-02457-w",
-      "publication_date": "2026"
-    },
-    {
-      "title": "Distinct neural signatures of reward processing underlying bipolar disorder and major depressive disorder: a systematic review and meta-analysis",
-      "authors": "**Y Wang**, Y Peng, JD Steele, S Tolomeo",
-      "venue": "**Psychiatry Research: Neuroimaging**, 112196, 2026",
-      "year": 2026,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:roLk4NBRz8UC",
-      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:roLk4NBRz8UC",
-      "source_index": 13,
-      "pdf": "https://doi.org/10.1016/j.pscychresns.2026.112196",
-      "doi": "https://doi.org/10.1016/j.pscychresns.2026.112196",
       "publication_date": "2026"
     },
     {
@@ -127,7 +127,7 @@
       "year": 2025,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:8k81kl-MbHgC",
       "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:8k81kl-MbHgC",
-      "source_index": 8,
+      "source_index": 9,
       "pdf": "/assets/pdfs/bayesian-social-anxiety-2025.pdf",
       "doi": "https://doi.org/10.3724/SP.J.1042.2025.1267",
       "publication_date": "2025"
