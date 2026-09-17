@@ -10,7 +10,7 @@ pdf: "/assets/pdfs/bridging-cognitive-architecture-gsa-2026.pdf"
 cite: "https://doi.org/10.3390/jintelligence14080179"
 doi: "https://doi.org/10.3390/jintelligence14080179"
 featured: false
-order: 1
+order: 2
 ---
 
 † These authors contributed equally to this work.

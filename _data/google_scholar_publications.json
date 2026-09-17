@@ -3,6 +3,18 @@
   "source": "https://scholar.google.com/citations?user=8F7li3AAAAAJ&hl=zh-CN",
   "publications": [
     {
+      "title": "Transdiagnostic latent factors dissociating depression and anxiety through reinforcement learning",
+      "authors": "X Huang, Y Ni, **Y Wang**, Y Peng, J Li",
+      "venue": "**BMC Psychiatry**, 2026",
+      "publication_date": "2026",
+      "year": 2026,
+      "link": "https://doi.org/10.1186/s12888-026-08592-y",
+      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:ufrVoPGSRksC",
+      "source_index": 15,
+      "pdf": "/assets/pdfs/transdiagnostic-latent-factors-rl-2026.pdf",
+      "doi": "https://doi.org/10.1186/s12888-026-08592-y"
+    },
+    {
       "title": "Distinct neural signatures of reward processing underlying bipolar disorder and major depressive disorder: a systematic review and meta-analysis",
       "authors": "**Y Wang**, Y Peng, JD Steele, S Tolomeo",
       "venue": "**Psychiatry Research: Neuroimaging**, 112196, 2026",
@@ -130,16 +142,6 @@
       "source_index": 9,
       "pdf": "/assets/pdfs/bayesian-social-anxiety-2025.pdf",
       "doi": "https://doi.org/10.3724/SP.J.1042.2025.1267",
-      "publication_date": "2025"
-    },
-    {
-      "title": "Transdiagnostic latent factors dissociating depression and anxiety through reinforcement learning",
-      "authors": "X Huang, Y Ni, **Y Wang**, Y Peng, J Li",
-      "venue": "2025",
-      "year": 2025,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:ufrVoPGSRksC",
-      "cite": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8F7li3AAAAAJ&citation_for_view=8F7li3AAAAAJ:ufrVoPGSRksC",
-      "source_index": 15,
       "publication_date": "2025"
     },
     {
