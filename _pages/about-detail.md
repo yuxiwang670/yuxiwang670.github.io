@@ -4,22 +4,24 @@ title: "About Me"
 author_profile: true
 ---
 
-*More updates coming soon.*
+👋 **I am Yuxi Wang (王愉茜), a research scientist at BIGAI.**
 
-{% comment %}
-👋 **I am Yuxi Wang (王愉茜), currently a research scientist at BIGAI.**
+我是王愉茜，目前是 BIGAI 的研究员。
 
-My research asks: **How can we understand and develop cognitive capabilities that enable more general and adaptive artificial intelligence?** I work at the intersection of **artificial intelligence and cognitive science**, aiming to uncover the principles underlying intelligence and translate insights from human cognition into the development of more **adaptive, reliable, and autonomous AI systems**.
+🧠 **My research asks: How can AI systems monitor and regulate their own cognitive processes?**
 
-🧠 **Inspired by cognitive science and neuroscience, I study the cognitive foundations of intelligent systems.**
+我的研究关注：AI 系统如何监控并调节自身的认知过程？
 
-Human intelligence is not only the ability to solve problems, but also the capacity to **learn efficiently, reason under uncertainty, monitor one's own knowledge, and adapt behaviors** in changing environments. My research investigates how these higher-order cognitive capabilities can be **understood, evaluated, and developed in AI systems**, moving beyond conventional task-based evaluations toward a deeper understanding of machine intelligence.
+Drawing on my background in cognitive science and neuroscience, my current research focuses on **AI metacognition**—how artificial agents assess their own knowledge, uncertainty, and limitations, and use this information to guide learning, reasoning, and decision-making.
 
-🔍 **My current research focuses on AI cognitive capabilities, particularly metacognition and autonomous intelligence.**
+基于认知科学与神经科学的研究背景，我目前主要关注 **AI 元认知**：人工智能体如何评估自身的知识、不确定性与能力边界，并利用这些信息指导学习、推理与决策。
 
-I study how AI agents can **assess their own knowledge states, recognize limitations, identify knowledge gaps, learn from feedback, and adapt to unfamiliar situations**. Methodologically, I combine **computational cognitive modeling, Bayesian learning, active learning, and cognitively grounded benchmark design** to characterize and improve these capabilities in AI systems.
+🔍 I also work on **the evaluation and interpretability of AI cognitive capabilities**. By drawing on theories and experimental paradigms from cognitive science, I develop cognitively grounded evaluations and benchmarks, and investigate the relationships among models’ internal representations, self-reports, and observable behavior.
 
-🌱 **My long-term goal is to contribute to the cognitive foundations of artificial general intelligence (AGI).**
+我也关注 **AI 认知能力的评测与可解释性**。通过借鉴认知科学的理论与实验范式，我尝试构建具有认知理论基础的评测与基准，并考察模型内部表征、自我报告与外部行为之间的关系。
 
-I aim to develop scientific frameworks for understanding and building AI systems that are not only capable of solving complex tasks, but also able to **understand their own capabilities, continuously improve through experience, and interact with humans in a trustworthy manner**.
-{% endcomment %}
+🌱 **Ultimately, I aim to contribute to the development of AI systems that can recognize their limitations, regulate their behavior, and adapt autonomously—making artificial intelligence more general, interpretable, reliable, and trustworthy.**
+
+最终，我希望推动能够识别自身局限、调节自身行为并自主适应的 AI 系统发展，使人工智能更加通用、可解释、可靠且可信赖。
+
+For the most up-to-date publication list and citation metrics, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=8F7li3AAAAAJ&hl=zh-CN).
