@@ -75,11 +75,8 @@ def normalize_publication(pub, source_index, overrides):
         or overrides.get(("title", title.casefold()))
         or {}
     )
-    for key in ("pdf", "doi", "publication_date"):
+    for key in ("authors", "venue", "year", "publication_date", "pdf", "doi"):
         if existing.get(key):
-            item[key] = existing[key]
-    for key in ("authors", "venue"):
-        if not item[key] and existing.get(key):
             item[key] = existing[key]
     if existing.get("link") and not item["link"]:
         item["link"] = existing["link"]
